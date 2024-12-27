@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning ,Courses**
 
-- 💬 Ask me about **Python,Numpy,Html**
+- 💬 Ask me about **Pandas,Numpy,Html**
 
 - 📫 How to reach me **carkeyaakash360@gmail.com**
 
@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Carkey Aakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carkey aakash" height="30" width="40" /></a>
-<a href="https://fb.com/Aakash karki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aakash karki" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/carkey-aakash-123211303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carkey-aakash-123211303" height="30" width="40" /></a>
+<a href="https://fb.com/prakash.carkey.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prakash.carkey.9" height="30" width="40" /></a>
 <a href="https://instagram.com/aakash.carkey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakash.carkey" height="30" width="40" /></a>
 </p>
 

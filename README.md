@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aakash Karki</h1>
+<h1 align="center">Hi 👋, I'm Akash Karki</h1>
 <h3 align="center">A passionate computer science student from Nepal</h3>
 <img align="right" alt="coding" width="400px" src="https://img.freepik.com/premium-photo/laptop-code-software-technology-web-development_153608-9522.jpg?w=1060">
 

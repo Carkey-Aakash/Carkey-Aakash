@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **carkeyaakash360@gmail.com**
 
-- ⚡ Fun fact **I open VS Code just to stare at the code like it's going to write itself.**
+- ⚡ Fun fact **I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

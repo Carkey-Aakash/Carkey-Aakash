@@ -12,6 +12,8 @@
 - 📫 How to reach me **carkeyaakash360@gmail.com**
 
 - ⚡ Fun fact **I am funny.**
+  
+- 👨‍💻 All of my details are available at https://akashkarki.info.np/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Pandas,Numpy,Html**
 
-- 📫 How to reach me **carkeyaakash360@gmail.com**
+- 📫 How to reach me **carkeyaakash360@gmail.com**, **akashkarki2468@gmail.com**
 
 - ⚡ Fun fact **I am funny.**
   
